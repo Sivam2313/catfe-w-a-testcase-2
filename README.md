@@ -1,20 +1,28 @@
 Context Aware Testing System for Financial Ecosystems
 
 ## 📌 Table of Contents
-- Introduction
-- Inspiration
-- What It Does
-- How We Built It
-- Challenges We Faced
-- How to Run
-- Tech Stack
-- Team
+- [Introduction]
+- [Demo]
+- [Inspiration]
+- [What It Does]
+- [How We Built It]
+- [Challenges We Faced]
+- [How to Run]
+- [Tech Stack]
+- [Team]
 
 ---
 
 ## 🎯 Introduction
 Our project is a Context Aware Testing System for Financial Ecosystems. It's a system that can
 dynamically generates test scenarios leveraging LLM(Gemini) based on contextual inputs to simulate real-world usage and edge cases effectively.
+
+## 🎥 Demo
+🔗 [Live Demo](#) (if applicable)  
+📹 [Video Demo](#) (if applicable)  
+🖼️ Screenshots:
+
+![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
 We were inspired by the complexity and critical nature of modern financial ecosystems, where a single overlooked edge case can result in system failures, financial losses, or regulatory issues. Manual test case creation is time-consuming and often lacks contextual depth, especially in systems that evolve rapidly.
